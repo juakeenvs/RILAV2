@@ -7,3 +7,5 @@ Exercise Recognition: RILA can detect exercises such as push-ups, pull-ups, skul
 Rep Counting: Automatically counts repetitions based on specific joint angles.
 Form Correction: Provides real-time feedback to ensure proper form and prevent injury during exercises.
 Customizable Workouts: Users can choose from a library of exercises to track, with customizable targets and settings for each session.
+
+Controls: q to close cv2 screen, t to hide/show feedback line
